@@ -1,0 +1,7 @@
+BUILD COMPLETE - 2026-10-01
+Tests: 22 passed (pytest).
+Validated local implementation commit: 6e6f1b4c3a5a8bb5cf6953b418be973afcf53d17
+Branch: main
+Measured installed CLI fixture demo: 0.806693 seconds.
+
+Built a local-only, CPU-only deterministic Python CLI named pse2 with fixtures, run, report, rank and explain subcommands. The pure core compares four explicit company fields against recorded responders, producing auditable matches and reconciled counts. Labelled 200-record synthetic fixtures and independent hand-computed expectations recover all 40 planted matches with zero false positives. Tests cover determinism, a five-record example, corrupted inputs, schema drift, adversarial values, Unicode, empty input and atomic report failure. Markdown and JSON reports carry provenance and explicitly identify unmeasured probabilities and savings. README, lessons, acceptance evidence and a pending two-week real-use verdict are included. No publication performed. This file is committed in a separate completion-record commit after the validated implementation commit above.
