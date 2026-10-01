@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "prospect-similarity-engine"
+version = "0.1.0"
+description = "Deterministic local company similarity against recorded responders"
+requires-python = ">=3.10"
+
+[project.scripts]
+pse2 = "prospect_similarity_engine.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.setuptools.packages.find]
+include = ["prospect_similarity_engine*"]

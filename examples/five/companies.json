@@ -1,0 +1,57 @@
+{
+  "_comment": "SYNTHETIC hand-written five-record example",
+  "synthetic": true,
+  "as_of": "2026-09-30",
+  "records": [
+    {
+      "id": "r1",
+      "name": "Synthetic r1",
+      "industry": "software",
+      "business_model": "subscription",
+      "country": "GB",
+      "employee_band": "11-50",
+      "responded": true,
+      "synthetic": true
+    },
+    {
+      "id": "p1",
+      "name": "Synthetic p1",
+      "industry": "software",
+      "business_model": "subscription",
+      "country": "GB",
+      "employee_band": "11-50",
+      "responded": false,
+      "synthetic": true
+    },
+    {
+      "id": "p2",
+      "name": "Synthetic p2",
+      "industry": "software",
+      "business_model": "subscription",
+      "country": "DE",
+      "employee_band": "11-50",
+      "responded": false,
+      "synthetic": true
+    },
+    {
+      "id": "p3",
+      "name": "Synthetic p3",
+      "industry": "manufacturing",
+      "business_model": "wholesale",
+      "country": "DE",
+      "employee_band": "201-500",
+      "responded": false,
+      "synthetic": true
+    },
+    {
+      "id": "p4",
+      "name": "Synthetic p4",
+      "industry": "software",
+      "business_model": "wholesale",
+      "country": "DE",
+      "employee_band": "201-500",
+      "responded": false,
+      "synthetic": true
+    }
+  ]
+}
